@@ -1,0 +1,12 @@
+body {
+    font-size: 39px;font-family: asma;
+}
+
+h1 {
+    
+}
+
+@font-face {
+    font-family: asma;
+    src: url(./Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
